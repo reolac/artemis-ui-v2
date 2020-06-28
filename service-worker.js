@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/artemis-ui-v2/precache-manifest.137074ac96795b1dcc2b83c08f1fe31b.js"
+  "/artemis-ui-v2/precache-manifest.855aad1c70f70edacfb65ee0d83ed71c.js"
 );
 
 self.addEventListener('message', (event) => {
